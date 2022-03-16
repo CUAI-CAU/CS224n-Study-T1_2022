@@ -27,7 +27,7 @@
 
 |       Date       | Week | Topic | Reviewer | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| Mar 17, 2022 | 1 | Lecture 1 – Introduction and Word Vectors | 김병찬 | [Slide]
+| Mar 17, 2022 | 1 | Lecture 1 – Introduction and Word Vectors | 김병찬 | [Slide](https://github.com/CUAI-CAU/CS224n-Study-T1_2022/blob/main/Slides/week1/CS224N_Chapter1.pdf)
 | Mar 17, 2022 | 1 | Lecture 2 - Neural Classifiers | 이재용 | [Slide]
 | Mar 17, 2022 | 1 | Lecture 3 - Backprop and Neural Networks | 김서린 | [Slide]
 | 미정 | 2 | Lecture 4 - Dependency Parsing | 김병찬 | [Slide]
