@@ -19,7 +19,6 @@
 
 ## 3. 스터디 스케줄
 
-<<<<<<< HEAD
 |       Date       | Week | Topic |
 |:----------------:|:------:|:----------------------------------------:|
 | Mar 17, 2022 | 1 | Lecture 1 – Introduction and Word Vectors
@@ -30,28 +29,6 @@
 | 미정 | 4 | Lecture 6 - Simple and LSTM RNNs
 | 미정 | 5 | Lecture 7 - Translation, Seq2Seq, Attention
 | 미정 | 6 | Lecture 9 - Self- Attention and Transformers
-=======
-|       Date       | Week | Topic | Reviewer | Slides |
-|:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| Mar 17, 2022 | 1 | Lecture 1 – Introduction and Word Vectors | 김병찬 | [Slide]
-| Mar 17, 2022 | 1 | Lecture 2 - Neural Classifiers | 이재용 | [Slide]
-| Mar 17, 2022 | 1 | Lecture 3 - Backprop and Neural Networks | 김서린 | [Slide]
-| 미정 | 2 | Lecture 4 - Dependency Parsing | 김병찬 | [Slide]
-| 미정 | 2 | Lecture 5 - Language Models and RNNs | 이재용 | [Slide]
-| 미정 | 2 | Lecture 6 - Simple and LSTM RNNs | 김서린 | [Slide]
-| 미정 | 3 | Lecture 7 - Translation, Seq2Seq, Attention | 김병찬 | [Slide]
-| 미정 | 3 | Lecture 9 - Self- Attention and Transformers | 이재용 | [Slide]
-| 미정 | 3 | Lecture 10 - Transformers and Pretraining | 김서린 | [Slide]
-| 미정 | 4 | Lecture 12 - Natural Language Generation | 김병찬 | [Slide]
-| 미정 | 4 | Lecture 13 - Coreference Resolution | 이재용 | [Slide]
-| 미정 | 4 | Lecture 14 - T5 and Large Language Models | 김서린 | [Slide]
-| 미정 | 5 | Lecture 15 - Add Knowledge to Language Models| 김병찬 | [Slide]
-| 미정 | 5 | Lecture 16 - Social & Ethical Considerations | 이재용 | [Slide]
-| 미정 | 5 | Lecture 17 - Model Analysis and Explanation | 김서린 | [Slide]
-| 미정 | 6 | Lecture 18 - Future of NLP + Deep Learning | 김병찬 | [Slide]
-| 미정 | 6 | Low Resource Machine Translation | 이재용 | [Slide]
-| 미정 | 6 | BERT and Other Pre-trained Language Models | 김서린 | [Slide]
->>>>>>> parent of f2add01 (Update README.md)
 <br>
 
 ## 4. 스터디 규칙 안내
