@@ -24,8 +24,8 @@
 | Mar 17, 2022 | 1 | Lecture 1 – Introduction and Word Vectors
 | Mar 17, 2022 | 1 | Lecture 2 - Neural Classifiers
 | Mar 17, 2022 | 1 | Lecture 3 - Backprop and Neural Networks
-| Mar 24, 2022 | 2 | Lecture 4 - Dependency Parsing
-| 미정 | 3 | Lecture 5 - Language Models and RNNs
+| Mar 31, 2022 | 2 | Lecture 4 - Dependency Parsing
+| Mar 31, 2022 | 2 | Lecture 5 - Language Models and RNNs
 | 미정 | 4 | Lecture 6 - Simple and LSTM RNNs
 | 미정 | 5 | Lecture 7 - Translation, Seq2Seq, Attention
 | 미정 | 6 | Lecture 9 - Self- Attention and Transformers
